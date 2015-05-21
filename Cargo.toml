@@ -1,0 +1,10 @@
+[package]
+name = "libfizzbuzz"
+version = "0.1.0"
+authors = ["Alan Hoffmeister <alanhoffmeister@gmail.com>"]
+license = "ISC"
+readme = "README.md"
+repository = "https://github.com/alanhoff/rust-libfizzbuzz"
+homepage = "https://github.com/alanhoff/rust-libfizzbuzz"
+description = "Rust library for handling Fizz-Buzz tests"
+keywords = ["fizz", "buzz", "fizzbuzz", "fizz-buzz"]
