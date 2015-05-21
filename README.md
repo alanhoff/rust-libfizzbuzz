@@ -27,7 +27,7 @@ let n = lfb::is_buzz(5); // true
 // Test if an i64 is a number divisible by 3 and 5
 let n = lfb::is_fizzbuzz(15); // true
 
-// Detect if an i64 is divisibre by 3 or 5
+// Detect if an i64 is divisible by 3, 5 or both
 let (fizz, buzz, fizzbuzz) = lfb::detect(20); // (false, true, false)
 ```
 
